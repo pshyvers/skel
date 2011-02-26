@@ -1,0 +1,172 @@
+\t (00:00:01) apd 16.2 p005 (v16-2-57E) i86
+\t (00:00:01) 
+
+\t (00:00:01) Opening existing drawing...
+\d (00:00:01) Database opened: C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Lib/symbols/SPDT_EG1206.dra
+\i (00:00:01) trapsize 122
+\i (00:00:01) trapsize 117
+\i (00:00:01) trapsize 100
+\i (00:00:02) trapsize 112
+\i (00:00:02) generaledit 
+\i (00:09:04) pick grid -237.2 -7.5
+\t (00:09:04) last pick:  -225.0  0.0
+\i (00:09:04) prepopup -237.2 -7.5
+\i (00:09:16) pick grid 249.1 10.4
+\t (00:09:16) last pick:  250.0  0.0
+\i (00:09:16) pick grid 249.1 10.4
+\t (00:09:16) last pick:  250.0  0.0
+\i (00:09:17) pick grid 249.1 10.4
+\t (00:09:17) last pick:  250.0  0.0
+\i (00:09:19) pick grid 753.2 264.7
+\t (00:09:19) last pick:  750.0  275.0
+\i (00:11:00) prepopup 242.4 -7.5
+\i (00:11:02) pick grid 764.3 -0.8
+\t (00:11:02) last pick:  775.0  0.0
+\i (00:11:07) setwindow form.find
+\i (00:11:07) FORM find all_off  
+\i (00:11:08) FORM find text YES 
+\i (00:11:09) setwindow pcb
+\i (00:11:09) pick grid 249.1 37.2
+\t (00:11:09) last pick:  250.0  25.0
+\e (00:11:10) Command not found: Del
+\i (00:11:11) prepopup 251.3 17.1
+\i (00:11:13) pop dyn_option_select @:@Delete 
+\i (00:11:13) delete 
+\i (00:11:13) generaledit 
+\i (00:11:27) pick grid -261.7 10.4
+\t (00:11:27) last pick:  -250.0  0.0
+\e (00:11:28) Command not found: Del
+\i (00:11:31) prepopup -235.0 10.4
+\i (00:11:36) pop dyn_option_select '@:@Text edit' 
+\i (00:11:36) text edit 
+\i (00:11:38) setwindow form.textedit
+\i (00:11:38) FORM textedit cancel  
+\i (00:11:38) setwindow pcb
+\i (00:11:38) generaledit 
+\i (00:11:41) pick grid -226.1 1.5
+\t (00:11:41) last pick:  -225.0  0.0
+\i (00:11:41) pick grid 5.9 456.5
+\t (00:11:41) last pick:  0.0  450.0
+\i (00:11:42) pick grid -261.7 23.8
+\t (00:11:42) last pick:  -250.0  25.0
+\i (00:11:43) prepopup -261.7 23.8
+\i (00:11:44) pop dyn_option_select @:@Delete 
+\i (00:11:44) delete 
+\i (00:11:44) generaledit 
+\i (00:11:48) save 
+\f (00:11:48) C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Lib/symbols/SPDT_EG1206.dra: File Exists. Overwrite? 
+\i (00:11:51) fillin yes 
+\t (00:11:51) Symbol 'spdt_eg1206.psm' created.
+\i (00:11:51) generaledit 
+\i (00:12:46) pick grid 271.4 -16.4
+\t (00:12:46) last pick:  275.0  -25.0
+\i (00:12:50) setwindow form.find
+\i (00:12:50) FORM find all_on  
+\i (00:14:03) setwindow pcb
+\i (00:14:03) pick grid 110.8 327.1
+\t (00:14:03) last pick:  100.0  325.0
+\i (00:14:05) zoom out 1 
+\i (00:14:05) setwindow pcb
+\i (00:14:05) zoom out 146.5 32.7
+\i (00:14:05) trapsize 112
+\i (00:14:05) zoom out 1 
+\i (00:14:05) setwindow pcb
+\i (00:14:05) zoom out 146.5 21.5
+\i (00:14:05) trapsize 112
+\i (00:14:05) zoom out 1 
+\i (00:14:05) setwindow pcb
+\i (00:14:05) zoom out 139.8 14.8
+\i (00:14:05) trapsize 112
+\i (00:14:05) zoom out 1 
+\i (00:14:05) setwindow pcb
+\i (00:14:05) zoom out 124.1 10.4
+\i (00:14:05) trapsize 112
+\i (00:16:47) pick grid 648.3 452.0
+\t (00:16:47) last pick:  650.0  450.0
+\i (01:20:30) open 
+\i (01:21:18) fillin "menu_cancel"
+\i (01:21:18) generaledit 
+\i (01:25:39) open 
+\i (01:25:51) fillin "menu_cancel"
+\i (01:25:51) generaledit 
+\i (01:25:52) zoom out 1 
+\i (01:25:52) setwindow pcb
+\i (01:25:52) zoom out 893.7 231.2
+\i (01:25:52) trapsize 112
+\i (01:25:52) zoom out 1 
+\i (01:25:52) setwindow pcb
+\i (01:25:52) zoom out 893.7 231.2
+\i (01:25:52) trapsize 112
+\i (01:25:52) zoom out 1 
+\i (01:25:52) setwindow pcb
+\i (01:25:52) zoom out 893.7 231.2
+\i (01:25:52) trapsize 112
+\i (01:25:53) zoom out 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom out 891.5 226.8
+\i (01:25:53) trapsize 112
+\i (01:25:53) zoom out 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom out 891.5 226.8
+\i (01:25:53) trapsize 112
+\i (01:25:53) zoom in 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom in 891.5 226.8
+\i (01:25:53) trapsize 56
+\i (01:25:53) zoom in 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom in 736.4 226.8
+\i (01:25:53) trapsize 28
+\i (01:25:53) zoom in 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom in 736.4 226.8
+\i (01:25:53) trapsize 14
+\i (01:25:53) zoom in 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom in 736.4 226.8
+\i (01:25:53) trapsize 7
+\i (01:25:53) zoom in 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom in 736.4 226.9
+\i (01:25:53) trapsize 3
+\i (01:25:53) zoom out 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom out 736.4 226.9
+\i (01:25:53) trapsize 7
+\i (01:25:53) zoom out 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom out 736.5 226.9
+\i (01:25:53) trapsize 14
+\i (01:25:53) zoom out 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom out 736.6 226.9
+\i (01:25:53) trapsize 28
+\i (01:25:53) zoom out 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom out 736.5 226.8
+\i (01:25:53) trapsize 56
+\i (01:25:53) zoom out 1 
+\i (01:25:53) setwindow pcb
+\i (01:25:53) zoom out 736.4 226.8
+\i (01:25:53) trapsize 112
+\i (01:25:54) zoom out 1 
+\i (01:25:54) setwindow pcb
+\i (01:25:54) zoom out 891.5 226.8
+\i (01:25:54) trapsize 112
+\i (01:25:54) zoom out 1 
+\i (01:25:54) setwindow pcb
+\i (01:25:54) zoom out 891.5 226.8
+\i (01:25:54) trapsize 112
+\i (01:25:54) zoom out 1 
+\i (01:25:54) setwindow pcb
+\i (01:25:54) zoom out 891.5 226.8
+\i (01:25:54) trapsize 112
+\i (01:25:54) zoom out 1 
+\i (01:25:54) setwindow pcb
+\i (01:25:54) zoom out 889.2 220.1
+\i (01:25:54) trapsize 112
+\i (01:25:54) zoom out 1 
+\i (01:25:54) setwindow pcb
+\i (01:25:54) zoom out 884.8 217.8
+\i (01:25:54) trapsize 112
+\i (01:30:14) exit 
